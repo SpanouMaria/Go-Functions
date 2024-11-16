@@ -8,5 +8,5 @@ Welcome to "Go Fundamentals"! This repository includes a range of Go code exampl
 ## Instructions for Running the Code
 - To get started, clone the repository:
   ```bash
-     git clone https://github.com/yourusername/Go-Essentials.git
-     cd Go-Essentials
+     git clone https://github.com/SpanouMaria/Go-Fundamentals.git
+     cd Go-Fundamentals
